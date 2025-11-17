@@ -1,5 +1,7 @@
 # Benefit Estimation and Goal Management
 
+This final product is an continuance and futher development of a previous master-theisis project of Simon Lyngar and Martin Storvoll. Now with added 3-point estimation to Benefit/Cost Estimation.
+
 This project contains a Forge app written in Typescript. It is a project bringing Benefit/Cost to Jira.
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
